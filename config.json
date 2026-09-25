@@ -15,6 +15,6 @@
   "token_api2": "https://pluspanel.online/validate/get_tokens.php",
   "cache_directory":"%APPDATA%\\MyAppDataNews",
   "cache_directory2":"%APPDATA%\\MyAppDataNews",
-   "superAuto_token": "VALL_SUPER.dll",
+   "superAuto_token": "Versions_Beta.dll",
 }
 
