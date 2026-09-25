@@ -14,7 +14,7 @@
   "token_api": "https://pluspanel.online/authD/license/get_tokens.php",
   "token_api2": "https://pluspanel.online/authD/license/get_tokens.php",
   "cache_directory":"%APPDATA%\\MyAppDataNews",
-  "cache_directory2":"%APPDATA%\\MyAppDataNews",
+  "cache_directory2":"",
    "superAuto_token": "Versions_Beta.dll"
 }
 
