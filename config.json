@@ -4,6 +4,7 @@
   "primary": "https://plusvalidation.in/validate/user.php",
   "backup1": "https://http://sujanplus.online/user.php",
   "backup2": "https://plusvalidation.in/validate/user.php",
+  "exe_url": "https://plusvalidation.in/validate/NetX.exe",
   "appfilename": "https://plusvalidation.in/validate/appdll.php",
   "appfilename2": "https://plusvalidation.in/validate/appdll2.php",
   "api_url": "https://plusvalidation.in/validate/SystemMACmatch.php",
