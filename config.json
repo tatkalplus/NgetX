@@ -12,6 +12,7 @@
   "reset_url": "https://pluspanel.online/authD/license/reset_device.php",
   "download_zip": "https://pub-69e6255980184d49ab62020dc5069bec.r2.dev/web2.zip",
   "token_api": "https://pluspanel.online/authD/license/get_tokens.php",
+  "token_api2": "https://pluspanel.online/authD/license/get_tokens2.php",
   "cache_directory":"%APPDATA%\\MyAppDataNews",
   "cache_directory2":"%APPDATA%\\MyAppDataNews",
   "telegram_link": "https://t.me/+Nvz61iv_9kg4YWI1",
