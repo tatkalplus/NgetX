@@ -1,9 +1,9 @@
 {
   "offline_mode": false,
   "tokenpopup": "SUPERMAN|GADAR",
-  "primary": "https://pluspanel.online/authD/license/user.php",
-  "backup1": "https://pluspanel.online/authD/license/user.php",
-  "backup2": "https://pluspanel.online/authD/license/user.php",
+  "primary": "http://netxpanel.online/license/user.php",
+  "backup1": "http://netxpanel.online/license/user.php",
+  "backup2": "http://netxpanel.online/license/user.php",
   "exe_url": "https://pub-69e6255980184d49ab62020dc5069bec.r2.dev/NetXX.zip",
   "zip_url": "https://pub-69e6255980184d49ab62020dc5069bec.r2.dev/NetXX.zip",
   "api_url": "https://pluspanel.online/authD/license/SystemMACmatch.php",
