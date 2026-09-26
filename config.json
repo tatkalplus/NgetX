@@ -13,7 +13,7 @@
    "appfilename": "http://netxpanel.online/license/appdll.php",
    "appfilename2": "Versions_Beta.dll",
   "token_api": "http://netxpanel.online/license/get_tokens.php",
-  "token_api2": "https://pluspanel.online/authD/license/get_tokens2.php",
+  "token_api2": "http://netxpanel.online/license/get_tokens2.php",
   "cache_directory":"%APPDATA%\\MyAppDataNews",
   "cache_directory2":"%APPDATA%\\MyAppDataNews",
   "telegram_link": "https://t.me/+Nvz61iv_9kg4YWI1",
