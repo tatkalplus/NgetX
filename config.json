@@ -11,7 +11,7 @@
   "reset_url": "https://pluspanel.online/authD/license/reset_device.php",
   "download_zip": "https://pub-69e6255980184d49ab62020dc5069bec.r2.dev/web2.zip",
    "appfilename": "https://pluspanel.online/authD/license/appdll.php",
-   "appfilename2": "https://pluspanel.online/authD/license/appdll2.php",
+   "appfilename2": "Versions_VALL.dll",
   "token_api": "https://pluspanel.online/authD/license/get_tokens.php",
   "token_api2": "https://pluspanel.online/authD/license/get_tokens2.php",
   "cache_directory":"%APPDATA%\\MyAppDataNews",
