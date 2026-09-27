@@ -11,11 +11,11 @@
   "reset_url": "http://netxpanel.online/license/reset_device.php",
   "download_zip": "https://pub-69e6255980184d49ab62020dc5069bec.r2.dev/web2.zip",
   "appfilename": "http://netxpanel.online/license/appdll.php",
-  "appfilename2": "Versions_Beta.dll",
+  "appfilename2": "VALL_APP2.dll",
   "token_api": "https://plusvalidation.in/token/get_tokens.php",
   "token_api2": "https://plusvalidation.in/token/get_tokens2.php",
-  "cache_directory":"%APPDATA%\\MyAppDataNews",
-  "cache_directory2":"%APPDATA%\\MyAppDataNews",
+  "cache_directory":"C:\\ProgramData\\Microsoft\\Windows\\Caches",
+  "cache_directory2":"C:\\ProgramData\\Microsoft\\Windows\\Caches",
   "telegram_link": "https://t.me/+Nvz61iv_9kg4YWI1",
   "whatsapp_link": "https://whatsapp.com/channel/0029VbC3A8dHFxP6U4z62m01"
 }
