@@ -1,6 +1,6 @@
 calendar issu ko fix kar diya giya hai , iska clint ip issu jada hai  fresh ip or id use kara
 
-software pa 2 options dal diya giya hai passenger submit time  or high lode  retry  , clicnt ip issu jada hai upna hishab sa set kar la
+software pa 2 options dal diya giya hai passenger submit time  or high lode  retry  , clicnt ip issu jada hai to upna hishab sa set kar la
 
 
 RAZORPAYQR UPDATE KAR DIYA GIYA HAI FAST BOOKING KA LIYA USE KAR SAKTA HAI
