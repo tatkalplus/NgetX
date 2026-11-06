@@ -1,3 +1,8 @@
+calendar issu ko fix kar diya giya hai , iska clint ip issu jada hai  fresh ip or id use kara
+
+software pa 2 options dal diya giya hai passenger submit time  or retry  high lode  retry  , clicnt ip issu jada hai upna hishab sa set kar la
+
+
 RAZORPAYQR UPDATE KAR DIYA GIYA HAI FAST BOOKING KA LIYA USE KAR SAKTA HAI
 BEST BOOKING KA LIYA 1 SYSTEM PAI 2 PAIR LOGIN KARA
 1 IP PA 2 PAIR SA JADA LOGIN NA KARA 
