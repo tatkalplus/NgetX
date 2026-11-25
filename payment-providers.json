@@ -1,5 +1,6 @@
 {
   "upiId": [
+     "BHIMUPI",
     "PAY10",
     "IPAYUPI",
     "RAZORPAYUPI",
@@ -40,6 +41,10 @@
     },
     "APP": {
       "keys": [
+        "BHIMUPI",
+         "RAZORPAYUPI",
+        "IPAYUPIQR",
+        "PAYTMQR",
         "IPAYUPI"
       ],
       "contains": [
