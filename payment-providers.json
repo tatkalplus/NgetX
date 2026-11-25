@@ -13,7 +13,7 @@
   "upiQr": [
     "EAZEBUZQR",
     "IPAYUPIQR",
-    "Paytm QR",
+    "PaytmQR",
     "JIOPAYUPIQR",
     "AIRPAYQR",
     "RAZORPAYQR",
@@ -44,7 +44,7 @@
         "BHIMUPI",
          "RAZORPAYUPI",
         "IPAYUPIQR",
-        "Paytm QR",
+        "PaytmQR",
         "IPAYUPI"
       ],
       "contains": [
