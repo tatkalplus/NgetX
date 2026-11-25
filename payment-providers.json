@@ -1,0 +1,140 @@
+{
+  "upiId": [
+    "PAY10",
+    "IPAYUPI",
+    "RAZORPAYUPI",
+    "E-WALLET",
+    "PAYUUPIJUSPAY",
+    "PHONEPEUPI",
+    "UPIMOBIKWIK",
+    "PayuUPI"
+  ],
+  "upiQr": [
+    "EAZEBUZQR",
+    "IPAYUPIQR",
+    "PAYTMQR",
+    "JIOPAYUPIQR",
+    "AIRPAYQR",
+    "RAZORPAYQR",
+    "PayUQR"
+  ],
+  "juspay": [
+    "PAYUUPIJUSPAY"
+  ],
+  "allowedByApp": {
+    "SER": {
+      "keys": [
+        "E-WALLET",
+        "IPAYUPIQR",
+        "IPAYUPI",
+        "PHONEPEQR",
+        "PAYTMQR"
+      ],
+      "contains": []
+    },
+    "BOT": {
+      "keys": [
+        "SBI",
+        "JIOPAYUPI",
+        "UPIMOBIKWIK",
+        "ICIVIRTUAL_DC",
+        "Corporate_yes",
+        "INDUSIND",
+        "ICICI",
+        "V_RUPAY",
+        "HDFCOTO_DC",
+        "VMNSDL_DC",
+        "AIRTEL_DC",
+        "NSDL_DC",
+        "HDFC",
+        "SBI_DC",
+        "ICICI_DC",
+        "PAYTM_DC",
+        "AXIS_DC",
+        "E-WALLET",
+        "NEWHDFC",
+        "EAZEBUZQR",
+        "AIRPAYQR",
+        "IPAYUPI",
+        "PAYZAP_DC",
+        "PAYTM",
+        "HDFC_DC",
+        "MOBIKWIK",
+        "AIRTELMONEY",
+        "PHONEPEQR",
+        "PAYTMQR"
+      ],
+      "contains": []
+    },
+    "APP": {
+      "keys": [
+        "SBI",
+        "PAYTMQR",
+        "IPAYUPIQR",
+        "UPIMOBIKWIK",
+        "PAY10",
+        "PHONEPEQR",
+        "AIRPAYQR",
+        "CASHFREEUPI",
+        "PHONEPEUPI",
+        "JIOPAYUPIQR",
+        "RAZORPAYQR",
+        "PayUQR",
+        "PayuUPI",
+        "HDFCUPI",
+        "HDFC",
+        "SBI_DC",
+        "ICICI_DC",
+        "PAYTM_DC",
+        "AXIS_DC",
+        "PAYZAP_AIRPAY",
+        "E-WALLET",
+        "OTOPAY",
+        "NEWHDFC",
+        "EAZEBUZQR",
+        "RAZORPAYUPI",
+        "PAYZAP_DC",
+        "PAYTM",
+        "HDFC_DC",
+        "IPAYUPI"
+      ],
+      "contains": [
+        "JUSPAY"
+      ]
+    },
+    "default": {
+      "keys": [
+        "SBI",
+        "IPAYUPIQR",
+        "ICIVIRTUAL_DC",
+        "Corporate_yes",
+        "INDUSIND",
+        "V_RUPAY",
+        "ICICI",
+        "AIRTEL_DC",
+        "HDFCOTO_DC",
+        "VMNSDL_DC",
+        "NSDL_DC",
+        "ICICI_DC",
+        "PAYTM_DC",
+        "AXIS_DC",
+        "E-WALLET",
+        "OTOPAY",
+        "RAZORPAYUPI",
+        "IPAYUPI",
+        "PAYUUPI",
+        "NEWHDFC",
+        "HDFC",
+        "BHIMUPI",
+        "PAYZAP_DC",
+        "HDFC_DC",
+        "PAYTM",
+        "PHONEPEQR",
+        "PAYTMQR"
+      ],
+      "contains": [
+        "KOTAK"
+      ]
+    }
+  }
+}
